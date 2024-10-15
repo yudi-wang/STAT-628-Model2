@@ -1,0 +1,12 @@
+name: Group4_bodyfat_predict
+title: bodyfat_predict
+username: mario2747
+account: mario2747
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13012080
+bundleId: 9222452
+url: https://mario2747.shinyapps.io/Group4_bodyfat_predict/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
