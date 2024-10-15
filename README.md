@@ -31,9 +31,3 @@ This project focuses on building a predictive model for estimating body fat perc
 The Shiny app allows users to interactively input measurements and predict body fat percentage based on the trained model. You can access the live app here:
 - [Shiny App Link](https://mario2747.shinyapps.io/Group4_bodyfat_predict/)
 
-## Installation
-
-### Jupyter Notebook
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/meitiandouzai/bodyfat
