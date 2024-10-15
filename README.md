@@ -7,21 +7,24 @@ This project focuses on building a predictive model for estimating body fat perc
 ## Repository Structure
 
 ### 1. Code
-- **Data Preprocessing and Model Building (Jupyter Notebook)**:
-  - The notebook includes both data preprocessing steps (such as handling missing values and outliers) and model building (using machine learning algorithms for prediction).
+- **Model.ipynb**:
+  - The notebook includes both data preprocessing steps (such as handling outliers), model building and model evaluation.
   
-- **Shiny Code**:
-  - This code runs the Shiny app that provides an interactive interface for users to input their body measurements and get predicted body fat percentages.
+- **shiny**:
+  - This folder runs the Shiny app that provides an interactive interface for users to input their body measurements and get predicted body fat percentages.
+ 
+- **shiny.zip**:
+  - This zip file contains the entire Shiny app directory. You can download it and run the app locally if needed.
 
 ### 2. Data
-- **Original Data**: Contains the raw data used for this project.
-- **Cleaned Data**: The processed dataset, following data cleaning and feature selection.
+- **BodyFat.csv**: Contains the raw data used for this project.
+- **bodyfat_amend.csv**: The processed dataset, following data cleaning.
 
 ### 3. Image
 - Contains various images and plots generated during the data analysis and modeling stages.
 
 ### 4. Summary
-- A document summarizing the key steps in data cleaning, model building, and findings from the project.
+- A document summarizing the key steps in data cleaning, model building, and model evaluation from the project.
 
 ### 5. Slides
 - Presentation slides summarizing the project, including the datacleaning, methodology, and results.
