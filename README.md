@@ -11,8 +11,7 @@ This project focuses on building a predictive model for estimating body fat perc
   - The notebook includes both data preprocessing steps (such as handling missing values and outliers) and model building (using machine learning algorithms for prediction).
   
 - **Shiny Code**:
-  - This code runs the Shiny app that provides an interactive interface for users to input their body measurements and get predicted body fat percentages. You can explore the app via the following link:
-    - [Shiny App Link](https://mario2747.shinyapps.io/Group4_bodyfat_predict/)
+  - This code runs the Shiny app that provides an interactive interface for users to input their body measurements and get predicted body fat percentages.
 
 ### 2. Data
 - **Original Data**: Contains the raw data used for this project.
@@ -27,7 +26,7 @@ This project focuses on building a predictive model for estimating body fat perc
 ### 5. Slides
 - Presentation slides summarizing the project, including the datacleaning, methodology, and results.
 
-## Shiny App
+## Shiny Link
 The Shiny app allows users to interactively input measurements and predict body fat percentage based on the trained model. You can access the live app here:
 - [Shiny App Link](https://mario2747.shinyapps.io/Group4_bodyfat_predict/)
 
